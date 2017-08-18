@@ -23,5 +23,4 @@ public class CharacterService {
 		arlarodChar.lifePoints = getMaxFortress(arlarodChar);
 	}
 	
-
 }
